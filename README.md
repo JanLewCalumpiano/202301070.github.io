@@ -1,5 +1,8 @@
+<!DOCTYPE html>
 <html>
-  <title>202301070.github.io</title>
-
+<head>
+    <title>202301070.github.io</title>
+</head>
+<body>
+</body>
 </html>
-
